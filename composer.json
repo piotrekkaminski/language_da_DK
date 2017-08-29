@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_da_dk",
+    "name": "piotrekkaminski/language_da_dk",
     "description": "Danish (dansk) Magento2 Language Pack (da_DK) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
